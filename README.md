@@ -149,3 +149,6 @@ If you like this project, give it a ⭐ on GitHub!
 
 **Your Name**  
 🔗 [https://github.com/your-username](https://github.com/Biswajitpa)
+system Desgining 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/df74d3c4-f1e6-4e56-bc1f-690044a1224e" />
+
