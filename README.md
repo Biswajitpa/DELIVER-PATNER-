@@ -4,10 +4,14 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Smart+Food+Delivery+System+with+Real-Time+Rider+Tracking" />
 </p>
 
-![Status](https://img.shields.io/badge/status-active-success)
-![Tech](https://img.shields.io/badge/stack-MERN-blue)
-![Realtime](https://img.shields.io/badge/realtime-enabled-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
+<p align="center">
+
+  <img src="https://img.shields.io/badge/status-active-success" />
+  <img src="https://img.shields.io/badge/stack-MERN-blue" />
+  <img src="https://img.shields.io/badge/realtime-enabled-orange" />
+  <img src="https://img.shields.io/badge/license-MIT-green" />
+
+</p>
 
 A full-stack food delivery application built using the **Design Thinking approach**.  
 This project connects **customers 🧑‍🍳**, **restaurants 🍽️**, and **delivery riders 🚴‍♂️** on one platform with **real-time order flow** and **live rider tracking 📍**.
