@@ -1,7 +1,7 @@
 # DELIVER-PATNER
 # 🚀 Smart Food Delivery System with Real-Time Rider Tracking
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Smart+Food+Delivery+System+with+Real-Time+Rider+Tracking" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Smart+Food+Delivery+System+with+Real-Time+Rider+Tracking" />
 </p>
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Tech](https://img.shields.io/badge/stack-MERN-blue)
