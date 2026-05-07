@@ -13,7 +13,8 @@
 
 </p>
 
-A full-stack food delivery application built using the **Design Thinking approach**.  This project connects **customers 🧑‍🍳**, **restaurants 🍽️**, and **delivery riders 🚴‍♂️** on one platform with **real-time order flow** and **live rider tracking 📍**.
+A full-stack food delivery application built using the **Design Thinking approach**. 
+This project connects **customers 🧑‍🍳**, **restaurants 🍽️**, and **delivery riders 🚴‍♂️** on one platform with **real-time order flow** and **live rider tracking 📍**.
 
 ---
 
