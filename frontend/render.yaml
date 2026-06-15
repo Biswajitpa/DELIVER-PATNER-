@@ -1,0 +1,48 @@
+services:
+  # 1. Frontend UI (Vite Static Site)
+  - type: web
+    name: tomato-frontend
+    runtime: static
+    rootDir: frontend
+    buildCommand: npm install && npm run build
+    staticPublishPath: dist
+
+  # 2. Auth Service
+  - type: web
+    name: tomato-auth-service
+    runtime: node
+    rootDir: services/auth
+    buildCommand: npm install
+    startCommand: node index.js
+
+  # 3. Realtime Service (WebSockets)
+  - type: web
+    name: tomato-realtime-service
+    runtime: node
+    rootDir: services/realtime
+    buildCommand: npm install
+    startCommand: node index.js
+
+  # 4. Rider Service
+  - type: web
+    name: tomato-rider-service
+    runtime: node
+    rootDir: services/rider
+    buildCommand: npm install
+    startCommand: node index.js
+
+  # 5. Restaurant Service
+  - type: web
+    name: tomato-restaurant-service
+    runtime: node
+    rootDir: services/restaurant
+    buildCommand: npm install
+    startCommand: node index.js
+
+  # 6. Admin Service
+  - type: web
+    name: tomato-admin-service
+    runtime: node
+    rootDir: services/admin
+    buildCommand: npm install
+    startCommand: node index.js
